@@ -23,5 +23,7 @@ The genetic_algorithm.py can be executed to perform feature selection.
 
 Train machine learning models by running AutoML_clf_run.ipynb.
 
+Before running the code unzip the "pseudomonas_expression-m.csv.zip" file and then convert it to excel format.
+
 Requirements
 Python 3.9
