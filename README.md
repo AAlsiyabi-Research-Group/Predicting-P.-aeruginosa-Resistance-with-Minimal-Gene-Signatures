@@ -1,4 +1,4 @@
-# Predicting-P. aeruginosa Resistance with Minimal Gene Signatures
+# Predicting _P._ _aeruginosa_ Resistance with Minimal Gene Signatures
 This repository contains the full analysis and codebase for the study: "Minimal Gene Signatures Enable High-Accuracy Prediction of Antibiotic Resistance in Pseudomonas aeruginosa".
 We developed a Genetic Algorithm (GA) combined with AutoML models to identify minimal sets of ~35–40 genes capable of accurately predicting antibiotic resistance across four antibiotics (meropenem, ciprofloxacin, tobramycin, and ceftazidime) using transcriptomic profiles.
 Achieved test accuracies range from 96–99%, meeting clinical diagnostic standards.
