@@ -15,7 +15,9 @@ Data references (expression matrix and phenotypic classifications)
 
 Conda environment file (GA_env.yml) for Genetic algorithm runs.
 
-**How to Run**
+**How to Run:**
+
+
 Use GA_env.yml and Autosklearn_Installation_guide.ipynb to create environment and install packages for the runs. 
 The genetic_algorithm.py can be executed to perform feature selection.
 
